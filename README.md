@@ -1,7 +1,8 @@
 # Hotel-Management-System-MySQL-JavaScript-
 
 Signup: https://github.com/Riazzzzzz/Hotel-Management-System-MySQL-JavaScript-/blob/a517a1a4ed5a24bba6971e0c6dc51a43172d3464/src/signup.java
-![image](https://user-images.githubusercontent.com/130599791/232100404-4bdb498b-84bc-4ed6-a5e8-1e86cbb41935.png)
+
+![image](https://user-images.githubusercontent.com/130599791/232100776-f2f67dbe-e534-44fb-a131-5937172228f0.png)
 
 login:  https://github.com/Riazzzzzz/Hotel-Management-System-MySQL-JavaScript-/blob/a517a1a4ed5a24bba6971e0c6dc51a43172d3464/src/login.java
 
